@@ -1,0 +1,13 @@
+﻿Build started 12/25/2018 10:41:18 PM.
+     1>Project "D:\DATA\CODE\GraduationProject\Get_Feature_Image\Run_SVM\Run_SVM.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Run_SVM.cpp
+         Run_SVM.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DATA\CODE\GraduationProject\Get_Feature_Image\x64\Debug\Run_SVM.exe" /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\DATA\CODE\GraduationProject\Get_Feature_Image\x64\Debug\Run_SVM.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DATA\CODE\GraduationProject\Get_Feature_Image\x64\Debug\Run_SVM.lib" /MACHINE:X64 x64\Debug\Run_SVM.obj
+         Run_SVM.vcxproj -> D:\DATA\CODE\GraduationProject\Get_Feature_Image\x64\Debug\Run_SVM.exe
+     1>Done Building Project "D:\DATA\CODE\GraduationProject\Get_Feature_Image\Run_SVM\Run_SVM.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.34
