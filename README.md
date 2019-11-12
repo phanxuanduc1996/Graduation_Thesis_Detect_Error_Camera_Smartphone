@@ -2,7 +2,7 @@
 
 ## Detection of camera errors through analysis of sample images by machine learning
 Project for Samsung phone factory in Vietnam.<br />
-The data for the thesis is confidential data of the factory, so I cannot publicize it.
+The origin data for the thesis is confidential data of the factory, so I cannot publicize it.
 
 - By: PHAN XUAN DUC
 - MSSV: 20146212.
