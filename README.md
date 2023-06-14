@@ -1,6 +1,10 @@
 # INFORMATION ABOUT THE DIRECTORY AND GUIDE TO RUNNING THE GRADUATION PROGRAM.
 
 ## Detection of camera errors through analysis of sample images by machine learning
+#### SCORE: ``9.8 / 10`` - Best Presentation Award
+
+#
+
 Project for Samsung phone factory in Vietnam.<br />
 The origin data for the thesis is confidential data of the factory, so I cannot publicize it.
 
